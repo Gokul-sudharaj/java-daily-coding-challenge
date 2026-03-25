@@ -1,3 +1,30 @@
+/*
+Problem: Check Anagram (Efficient)
+
+Description:
+Write a program to check whether two given strings are anagrams of each other.
+
+Two strings are said to be anagrams if they contain the same characters 
+with the same frequency, but possibly in a different order.
+
+The program should return true if both strings are anagrams, 
+otherwise return false.
+
+Input:
+Two strings s1 and s2
+
+Output:
+Print true if the strings are anagrams
+Otherwise, print false
+
+Input:
+listen
+silent
+
+Output:
+true
+*/
+
 
 import java.util.*;
 
