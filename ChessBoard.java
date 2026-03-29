@@ -39,11 +39,11 @@ public class Main
 		int n = sc.nextInt();
 	    for(int i=1;i<=n;i++){
 	        for(int j=1;j<=n;j++){
-		if(j% 2 !=0){
-		    System.out.print(" B ");
+		if((i+j)% 2 !=0){
+		    System.out.print(" W ");
 		}
 		else{
-		    System.out.print(" W ");
+		    System.out.print(" B ");
 		}
 
 	}
